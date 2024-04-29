@@ -5,4 +5,4 @@ const getElement = (selection) => {
 };
 
 
-export default getElement
+export default getElement;
